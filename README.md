@@ -1,10 +1,9 @@
 ### Hola 👋
 
 Recién comienzo mi camino en el área de los datos y desarrollo ...
-estudie matemáticas, actualemnte me desempeño como desarrrollador,
+estudie matemáticas, actualmente me desempeño como desarrrollador,
 y ahora me gustaría incursionar en el área de ciencia de datos.
-Actualmente, sigo aprendiendo a manejar diversos frameworks y 
-continuo mi aprendizaje con diferentes lenguajes:
+Actualmente, sigo aprendiendo a manejar diversos frameworks y lenguajes de programación:
 
 <img src = "https://www.svgrepo.com/show/376344/python.svg" style="width:5em;"> <img src = "https://www.svgrepo.com/show/373554/django.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/452228/html-5.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/452185/css-3.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/373705/js-official.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/452130/vue.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/373966/php.svg" style="width:5em;"> <img src = "https://www.svgrepo.com/show/353985/laravel.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/374024/quasar.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="width:4em;"> <img src ="https://www.svgrepo.com/show/353913/ionic.svg" style="width:5em;"> <img src = "https://www.svgrepo.com/show/530445/data-analysis.svg" style="width:4em;"> <img src = "https://www.svgrepo.com/show/530265/statistics.svg" style="width:4em;">
 
